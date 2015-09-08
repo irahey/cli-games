@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=harrypotter-game launcher
+Exec=ruby harrypotter-game.rb
+Icon=
+Path=/home/ira/Documents/projects/cli-games/harrypotter-game
+Terminal=true
+StartupNotify=false

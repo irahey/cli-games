@@ -1,0 +1,5 @@
+This is a command line interface game. 
+Run this command:
+ $ruby harrypotter-game.rb
+
+Or you can edit the properties of the desktop launcher by changing its working directory.
